@@ -1,6 +1,6 @@
 {
-  "name": "leaflet.locationfilter",
-  "version": "0.1.0",
+  "name": "@OpenHistoricalMap/leaflet.locationfilter",
+  "version": "0.2.0",
   "description": "Provides a location filter for Leaflet.",
   "main": "src/locationfilter.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HenningM/leaflet-locationfilter.git"
+    "url": "https://github.com/OpenHistoricalMap/leaflet-locationfilter.git"
   },
   "keywords": [
     "leaflet",
@@ -16,9 +16,21 @@
     "filter"
   ],
   "author": "Robert Kajic <robert@kajic.com>",
+  "contributors": [
+    {
+      "name" : "Martin Raifer",
+      "email" : "martin@raifer.tech",
+      "url" : "https://en.osm.town/@tyr"
+    },
+    {
+      "name" : "Eric Theise",
+      "email" : "erictheise@gmail.com",
+      "url" : "https://erictheise.com/"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HenningM/leaflet-locationfilter/issues"
+    "url": "https://github.com/OpenHistoricalMap/leaflet-locationfilter/issues"
   },
-  "homepage": "https://github.com/HenningM/leaflet-locationfilter"
+  "homepage": "https://github.com/OpenHistoricalMap/leaflet-locationfilter"
 }
